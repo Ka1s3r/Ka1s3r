@@ -1,9 +1,10 @@
 - 👋 Hi, I’m @Ka1s3r
-- 👀 I’m interested in art, neuroscience, ancient history, mythology, language, and A.I. 
+- 👀 I’m interested in art, theoretical neuroscience, ancient history, mythology, language, and A.I. 
 
 - 🌱 I’m currently learning = ['Python', 'Matlab', 'Java', 'SQL', 'AWS']
 
-- 🌱 How to access, clean and analyze web data, and how to work directly with databases using both Python and SQL.
+- 🌱 How to access, clean, and analyze web data. How to work directly with databases using Python and SQL.
+- 🌱 How to analyze neural data. 
 
 - 🌱Japanese: [◼◼◼▪◻] ------       Spanish: [◼◼▪◻◻] 
   
