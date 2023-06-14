@@ -7,7 +7,8 @@
 - 🌱 How to access, clean, and analyze web data. How to work directly with databases using Python and SQL.
 - 🌱 How to analyze neural data. 
 
-- 🌱Japanese: [◼◼◼▪◻] ------       Spanish: [◼◼▪◻◻] 
+- 🌱 Japanese: [◼◼◼▪▪]
+- 🌱 Spanish: [◼▪▪▪▪] 
   
 - 💞️ I’m looking to collaborate on A.I projects; I'm quite interested in NLP, robotics, and BCIs. 
 
